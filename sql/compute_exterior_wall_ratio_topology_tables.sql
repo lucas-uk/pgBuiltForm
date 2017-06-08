@@ -55,7 +55,7 @@ CREATE table topo_addressablebuildings.exterior_ratio_test as
 									) poly_rel
 								on
 									edge.right_face = poly_rel.element_id
-								UNION SELECT
+								UNION ALL SELECT
 									right_face as face,
 										left_face,
 										right_face,
