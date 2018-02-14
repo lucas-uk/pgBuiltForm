@@ -32,6 +32,7 @@ This work is licensed under a Creative Commons Attribution 4.0 License.
 
 ## Acknowledgements
 This work was supported by the Leverhulme Trust (grant number RP 2013-SL-015).
+
 ![Leverhulme Trust](images/Leverhulme_Trust_small.jpg "Leverhulme Trust logo")
 
 
