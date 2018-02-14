@@ -1,7 +1,7 @@
 
 # pgBuiltForm
 
-PostGIS routines for buildings.
+Example routines for extracting metrics from a PostGIS database of building polygons.
 
 ## Description
 This repository contains example SQL queries for extracting metrics about buildings from a PostGIS database. It aims to show how a database can be used to determining attributes on the form and geometry of 2D building footprints. It as been tested on OS MasterMap Topography Layer data.
