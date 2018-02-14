@@ -16,9 +16,9 @@ algorithms. Environment and Planning B: Urban Analytics and City Science`
 ### Built form extraction and exterior wall ratio
 In the code, a PostGIS schema.table `derivedinfo.buildingsandheights` contains the building footprints (MasterMap) footprints which have been spatially joined to  a dataset of address points (AddressBase). A PostGIS topology has been defined over `derivedinfo.buildingsandheights`. 
 
-The query `built_form_classification.sql` adds a field `form_based_on_addressgeometry` defining the built form (i.e. detached | semi-detached | mid-terrace | end-terrace | complex).
-
-The query `compute_exterior_wall_ratio_normal_tables.sql` creates a table `derivedinfo.external_wall_ratio_test`  containing the length of exterior edges, the length of shared edges and the external wall ratio.
+ - The query `built_form_classification.sql` shows adding a field `form_based_on_addressgeometry` defining the built form (i.e. detached | semi-detached | mid-terrace | end-terrace | complex).
+ 
+ - The query `compute_exterior_wall_ratio_normal_tables.sql` shows creation of a table `derivedinfo.external_wall_ratio_test`  containing the length of exterior edges, the length of shared edges and the external wall ratio.
 
 
 
