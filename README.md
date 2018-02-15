@@ -6,7 +6,8 @@ Example routines for extracting metrics from a PostGIS database of building poly
 ## Description
 This repository contains example SQL queries for extracting metrics about buildings from a PostGIS database. It aims to show how a database can be used to determining attributes on the form and geometry of 2D building footprints. It as been tested on OS MasterMap Topography Layer data.
 
-Journal article :
+Journal article:
+
 `Beck, A., Long, G., Boyd, D.S., Rosser, J.F., Morley, J., Duffield, R., Robinson, D. And Sanderson, M. 2018. Automated classification metrics for
 energy modelling of residential
 buildings in the UK with open
