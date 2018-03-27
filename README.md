@@ -8,10 +8,8 @@ This repository contains example SQL queries for extracting metrics about buildi
 
 Journal article:
 
-`Beck, A., Long, G., Boyd, D.S., Rosser, J.F., Morley, J., Duffield, R., Robinson, D. And Sanderson, M. 2018. Automated classification metrics for
-energy modelling of residential
-buildings in the UK with open
-algorithms. Environment and Planning B: Urban Analytics and City Science`
+`Beck, A., Long, G., Boyd, D.S., Rosser, J.F., Morley, J., Duffield, R., Sanderson, M., Robinson, D. 2018. Automated classification metrics for
+energy modelling of residential buildings in the UK with open algorithms. Environment and Planning B: Urban Analytics and City Science`
 
 
 ### Built form extraction and exterior wall ratio
