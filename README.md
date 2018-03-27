@@ -10,6 +10,7 @@ Journal article:
 
 `Beck, A., Long, G., Boyd, D.S., Rosser, J.F., Morley, J., Duffield, R., Sanderson, M., Robinson, D. 2018. Automated classification metrics for
 energy modelling of residential buildings in the UK with open algorithms. Environment and Planning B: Urban Analytics and City Science`
+[http://journals.sagepub.com/eprint/h489ZksJJ9RKMEbFYNRj/full](http://journals.sagepub.com/eprint/h489ZksJJ9RKMEbFYNRj/full)
 
 
 ### Built form extraction and exterior wall ratio
