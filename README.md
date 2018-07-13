@@ -14,8 +14,9 @@ energy modelling of residential buildings in the UK with open algorithms. Enviro
 
 Article:
 [http://journals.sagepub.com/eprint/h489ZksJJ9RKMEbFYNRj/full](http://journals.sagepub.com/eprint/h489ZksJJ9RKMEbFYNRj/full)
+
 Open access (before type-setting) version:
-http://eprints.nottingham.ac.uk/49693/
+[http://eprints.nottingham.ac.uk/49693/](http://eprints.nottingham.ac.uk/49693/)
 
 
 
