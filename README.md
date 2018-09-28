@@ -5,7 +5,7 @@
 Example routines for extracting metrics of built form from a PostGIS database of building polygons.
 
 ## Description
-This repository contains example SQL queries for extracting metrics about buildings from a PostGIS database. It aims to show how a database can be used to determine attributes on the form and geometry of 2D building footprints. It as been tested on OS MasterMap Topography Layer data.
+This repository contains example SQL queries for extracting metrics about buildings from a PostGIS database. It aims to show how a database can be used to determine attributes on the form and geometry of 2D building footprints. It has been tested on OS MasterMap Topography Layer data.
 
 Journal article:
 
@@ -42,5 +42,5 @@ This work was supported by the Leverhulme Trust (grant number RP 2013-SL-015).
 
 ![Leverhulme Trust](images/Leverhulme_Trust_small.jpg "Leverhulme Trust logo")
 
-
+Additional support was provided by [Ordnance Survey](https://www.ordnancesurvey.co.uk/) and [1Spatial](https://1spatial.com/).
 
